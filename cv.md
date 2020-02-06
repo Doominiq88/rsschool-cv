@@ -14,26 +14,26 @@ I am responsible, hardworking and diligent, sociable, and also know how to work 
 
 ### EDUCATION
 MAIN
-Name of the Education Establishment: International University «MITSO»
-Faculty/College: Economics
-Specialty: Marketing
+<p>Name of the Education Establishment: International University «MITSO»
+<p>Faculty/College: Economics
+<p>Specialty: Marketing
 
 ### COURSES
-ACTIVE TRADE
-INTERNET MARKETING
-IT PROGECT MANAGMENT COURSE
-AGILE AND COMBINED METHODOLOGIES IN IT 
-HTML
-CSS
-JS(ES6)
-VSCode
+<p>ACTIVE TRADE
+<p>INTERNET MARKETING
+<p>IT PROGECT MANAGMENT COURSE
+<p>AGILE AND COMBINED METHODOLOGIES IN IT 
+<p>HTML
+<p>CSS
+<p>JS(ES6)
+<p>VSCode
 
 ### TOOLS
-Jira
-Git
-Git-Hub
-Trello
-Megaplan
+<p>Jira
+<p>Git
+<p>Git-Hub
+<p>Trello
+<p>Megaplan
 
 ### LANGUAGES
 English  Pre–Intermediate (Skyeng)
