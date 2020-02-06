@@ -19,10 +19,10 @@ MAIN
 <p>Specialty: Marketing
 
 ### COURSES
-<p>ACTIVE TRADE
-<p>INTERNET MARKETING
-<p>IT PROGECT MANAGMENT COURSE
-<p>AGILE AND COMBINED METHODOLOGIES IN IT 
+<p>Active trade
+<p>Internet marketing
+<p>IT progect management course
+<p>Agile and combined methodologies in IT 
 <p>HTML
 <p>CSS
 <p>JS(ES6)
